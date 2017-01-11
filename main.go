@@ -7,7 +7,7 @@
 // banlist on the configured Mikrotiks. In essence it is a Fail2Ban done the
 // lazy way. Since it leverages the filtering mechanisms of rsyslog to do the
 // pre-filtering, it should be able to handle large sets of publicly
-// accessable machines (famous last words, I know).
+// accessible machines (famous last words, I know).
 //
 // It handles both IPv4 and IPv6 addresses and banlists.
 //
